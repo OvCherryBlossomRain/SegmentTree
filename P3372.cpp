@@ -1,5 +1,4 @@
 //https://www.luogu.com.cn/problem/P3372
-//区间修改 + 区间求和 
 #include<bits/stdc++.h>
 using namespace std;
 const int maxn = 1e5+1;
